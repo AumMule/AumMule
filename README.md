@@ -44,11 +44,7 @@
 
 <div align="center">
   <br/>
-  <!-- LeetCode Interactive Stats & Heatmap Card -->
-  <a href="https://leetcode.com/u/AumM08" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/AumM08?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Streak & Activity Card" width="90%" />
-  </a>
-  <br/><br/>
+  
   <a href="https://leetcode.com/u/AumM08" target="_blank">
     <img src="https://leetcard.jacoblin.cool/AumM08?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Streak Heatmap" width="90%" />
   </a>
@@ -58,5 +54,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000,1c1c1c&height=4&section=footer" width="100%" alt="Footer Line" />
-  <sub>⚡ Designed with modern minimalism. Always in pursuit of craftsmanship.</sub>
+  <sub>Always in pursuit of craftsmanship.</sub>
 </div>
