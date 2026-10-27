@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Minimal Monochrome Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000,1c1c1c,333333&height=180&section=header&text=AUM%20MULE&fontSize=42&fontAlignY=45&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Spring%20Boot%20%26%20Angular%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=68&descColor=a3a3a3" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000,1c1c1c,333333&height=180&section=header&text=AUM%20MULE&fontSize=42&fontAlignY=45&fontColor=ffffff&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descSize=16&descAlignY=68&descColor=a3a3a3" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://github.com/AumMule">
